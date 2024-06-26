@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Anna Automation/TDDv2/src/test/java/Suitfile"><classes><class name="Suitfile.Test1"><methods><include name="two"/><include name="one"/><include name="aone"/></methods></class><class name="Suitfile.Test2"><methods><include name="two"/></methods></class></classes></test></suite>
